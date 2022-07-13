@@ -117,7 +117,7 @@ public class quizgame {
 			}
 			
 			
-			
+			System.out.print("");
 			
 		input.close();
 
