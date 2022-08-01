@@ -8,7 +8,7 @@ public class Main {
 
 		Scanner s = new Scanner(System.in);
 		
-		System.out.println("Enter how many student: ");
+		System.out.println("Enter how many student:  ");
 		int studentnum = s.nextInt();
 		s.nextLine();
 

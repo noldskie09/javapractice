@@ -28,7 +28,7 @@ public class Student {
 		System.out.println("year : " + year);
 		System.out.println("course : " + course);
 		System.out.println("section : " + section);
-		System.out.println("");
+		System.out.println(" ");
 		
 	}
 }
