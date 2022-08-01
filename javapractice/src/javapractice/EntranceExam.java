@@ -42,9 +42,10 @@ public class EntranceExam{
 					}
 				
 			}
-		System.out.println("Congrats "+ name+" your score is "+ score1);
 		
-			
+		System.out.println("Congrats "+ name+" your score is "+ score1);
+
+		
 		}
 		}
 		

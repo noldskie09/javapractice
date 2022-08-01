@@ -78,7 +78,6 @@ public class question extends Gui{
 		this.fname=fname;
 		this.lname=lname;
 		this.age=age;
-		
 		}
 		
 
